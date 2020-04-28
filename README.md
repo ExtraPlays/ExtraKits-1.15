@@ -2,7 +2,9 @@
 
 ## Source ExtraKits atualizada! 😎
 
->*** - Sem bugs de encantamento***
+>***Sem bug de encantamento*** ✅
+>***Kits separados por arquivos*** ✅
+>***Armazenamento em FlatFile***
 
 ```
 git status
