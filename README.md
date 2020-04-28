@@ -2,7 +2,7 @@
 
 ### Source ExtraKits atualizada! 😎
 
-- [x] ***Bug de encantamento corrigido!***
+***Bug de encantamento corrigido!*** ✔
 
 Futuras atualizações:
 - [ ] ***Armazenamento em SQLite/MYSQL***
