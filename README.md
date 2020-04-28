@@ -2,8 +2,6 @@
 
 ## Source ExtraKits atualizada! 😎
 
->***Sem bug de encantamento*** ✅
-
->***Kits separados por arquivos*** ✅
-
->***Armazenamento em FlatFile***
+- [x] Bug de encantamento corrigido!
+- [ ] Armazenamento em SQLite/MYSQL
+- [ ] Menu de Kits
