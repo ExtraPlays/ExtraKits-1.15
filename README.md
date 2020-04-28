@@ -7,3 +7,9 @@ Bug de encantamento corrigido! ✔
 Futuras atualizações:
 - [ ] ***Armazenamento em SQLite/MYSQL***
 - [ ] ***Menu de Kits***
+
+| Comandos  |
+| ------------------- |
+|  criarkit |
+|  apagarkit |
+|  kit |
