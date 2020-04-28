@@ -1,6 +1,6 @@
 # ExtraKits 1.15
 
-## Source ExtraKits atualizada! 😎
+### Source ExtraKits atualizada! 😎
 
 - [x] Bug de encantamento corrigido!
 - [ ] Armazenamento em SQLite/MYSQL
