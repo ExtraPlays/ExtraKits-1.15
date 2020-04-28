@@ -1,0 +1,10 @@
+# Mensagens !
+Prefixo: '&8[&bExtra&3Kits&8]'
+Ja_Existe: '&eO Kit &c{kit} &eJa Existe'
+Criado: '&eKit &6{kit} &eCriado com Sucesso'
+Nao_Existe: '&cKit &6{kit} &cNao Existe'
+Pegou: '&eVoce pegou o Kit &6{kit}'
+Acabou_Delay: '&eAcabou o Delay'
+Em_Delay: '&cVoce precisa esperar &6{delay}, &cpara pegar o Kit &6{kit} &cnovamente'
+Sem_Permissao: '&cVoce nao tem Permissao para usar o kit &6{kit}'
+Apagou: '&eVoce apagou o kit &6{kit}'

@@ -1,0 +1,15 @@
+name: ExtraKits
+description: O melhor plugin de Kits!
+main: me.ep.extrakits.ExtraKits
+version: 1.0.0
+commands:
+  kit:
+    aliases:
+      - kit
+  criarkit:
+    aliases:
+      - createkit
+  apagarkit:
+    aliases:
+      - deletekit
+      - delkit
